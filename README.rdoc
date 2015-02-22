@@ -1,5 +1,5 @@
 == README
 
-This is Matt's work-in progress pesonal blog, because every developer needs a blog they wrote themselves!
+This is Matt's work-in progress personal blog, because every developer needs a blog they wrote themselves!
 
-It is Rails on top of MongoDB, just to keep life interesting 
+It is Rails on top of MongoDB, just to keep life interesting
